@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 "id	 	",ime,cena
 "1	","fanta	",30
 "2		",leb,25
 "3		",maica,700
 "4	",patiki,3000
 "5	",usb,900
+=======
+"id	 	",ime,cena
+"1	","fanta	",30
+"2		",leb,25
+"3		",maica,700
+"4	",patiki,3000
+"5	",usb,900
+>>>>>>> 67e8d3c7327aea270d6bfc76b957bf44cd15498c
